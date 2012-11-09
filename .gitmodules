@@ -1,0 +1,3 @@
+[submodule "METADATA"]
+	path = METADATA
+	url = https://github.com/JuliaLang/METADATA.jl.git
