@@ -1,3 +1,6 @@
+[submodule "Distributions"]
+	path = Distributions
+	url = git://github.com/JuliaLang/Distributions.jl.git
 [submodule "METADATA"]
 	path = METADATA
 	url = https://github.com/JuliaLang/METADATA.jl.git
